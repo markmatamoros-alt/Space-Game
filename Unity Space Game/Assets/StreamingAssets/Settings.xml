@@ -1,0 +1,31 @@
+<settings>
+	<version>0.0.1</version>
+	<ip>192.168.1.64</ip>
+	<device0ip>192.168.1.64</device0ip>
+	<device1ip>192.168.1.64</device1ip>
+	<device2ip>192.168.1.64</device2ip>
+	<device3ip>192.168.1.64</device3ip>
+	<device4ip>192.168.1.64</device4ip>
+	<device5ip>192.168.1.64</device5ip>
+	<port>8051</port>
+	<apiaddress>localhost:3000</apiaddress>
+	<apiappid>3</apiappid>
+	<apiexperienceid>1</apiexperienceid>
+	<apicheckcountdown>3</apicheckcountdown>
+	<musicVolume>1</musicVolume>
+	<soundVolume>1</soundVolume>
+	<heartBeatTimer>60</heartBeatTimer>
+	<launchSequenceCountdown>5</launchSequenceCountdown>
+	<arduinoPinWin>2</arduinoPinWin>
+	<arduinoPinLoss>3</arduinoPinLoss>
+	<arduinoTimerEnd>2</arduinoTimerEnd>
+	<timeOutSeconds>30</timeOutSeconds>
+	<showdebug>true</showdebug>
+  <arduinoDamageLightsPinOne>6</arduinoDamageLightsPinOne>
+  <arduinoDamageLightsPinTwo>7</arduinoDamageLightsPinTwo>
+  <arduinoDamageLightsPinThree>8</arduinoDamageLightsPinThree>
+  <arduinoBlackHoleWarningLightsPin>10</arduinoBlackHoleWarningLightsPin>
+  <arduinoBlackHoleInstanceLightsPin>5</arduinoBlackHoleInstanceLightsPin>
+  <arduinoInitializeLightsPin>12</arduinoInitializeLightsPin>
+  <arduinoFlexMaxPinTime>2</arduinoFlexMaxPinTime>
+</settings>

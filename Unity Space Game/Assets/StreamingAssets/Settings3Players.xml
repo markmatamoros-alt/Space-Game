@@ -1,0 +1,14 @@
+<settings>
+	<digitalControlAmount>1,2,3,4,6</digitalControlAmount>
+	<timePerInstruction>10</timePerInstruction>
+	<timePerInstructionRoundDecrease>1</timePerInstructionRoundDecrease>
+	<shipHealthMax>10</shipHealthMax>
+	<shipHealthDamageTrigger>4</shipHealthDamageTrigger>
+	<instructionsToWinRound>10</instructionsToWinRound>
+	<amountOfPauseBetweenBlackhole>1</amountOfPauseBetweenBlackhole>
+	<chanceForBlackholePercent>20</chanceForBlackholePercent>
+	<chanceForBlackholeIncreaseByRound>10</chanceForBlackholeIncreaseByRound>
+	<blackholeInputNeeded>20</blackholeInputNeeded>
+	<timeToAvoidBlackHole>6</timeToAvoidBlackHole>
+	<timeBlackHoleEffect>18</timeBlackHoleEffect>
+</settings>
