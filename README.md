@@ -1,7 +1,7 @@
 My programming contributions pertained to Unity's Arduino integration. 
 It must be noted that the Uduino plugin was utilized for communcation.
 
-While I am the author of the Arduino script for the both client and server setups and the script for independent control testing, I assisted with the development of these Unity-related files: 
+While I am the author of the Arduino script for the both client and server setups and the script for independent control testing, I assisted with the development of these Unity files: 
 
   *Unity Space Game -> Assets -> ArduinoServerController.cs
 
